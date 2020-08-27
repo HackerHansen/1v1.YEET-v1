@@ -15,7 +15,7 @@ A cheat engine hack for the game 1v1.lol
 
 5.) Go to Task Manager and press the "details" tab. 
 
-![Details Photo](https://cdn.discordapp.com/attachments/693548483130556610/748647199398952990/detailstab.PNG)
+!(https://cdn.discordapp.com/attachments/693548483130556610/748647199398952990/detailstab.PNG)
 
 6.) Scroll down to the firefox processes and look at the process with the most RAM being used. 
 
