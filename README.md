@@ -5,15 +5,17 @@ A cheat engine hack for the game 1v1.lol
 
 ## INSTRUCTIONS: 
 
-1.) Download Cheat Engine from (https://cheatengine.org) 
+1.) Download Cheat Engine from https://cheatengine.org 
 
-2.) Download Firefox from (https://www.mozilla.org/en-US/firefox/new/)
+2.) Download Firefox from https://www.mozilla.org/en-US/firefox/new/ 
 
 3.) Download "1v1.YEET.CETRAINER" 
 
 4.) Open a SINGLE tab to 1v1.lol in Firefox. Make sure it is the only tab running. 
 
 5.) Go to Task Manager and press the "details" tab. 
+
+![Details Photo](https://cdn.discordapp.com/attachments/693548483130556610/748647199398952990/detailstab.PNG)
 
 6.) Scroll down to the firefox processes and look at the process with the most RAM being used. 
 
