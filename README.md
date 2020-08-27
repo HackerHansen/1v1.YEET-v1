@@ -19,9 +19,15 @@ A cheat engine hack for the game 1v1.lol
 
 6.) Scroll down to the firefox processes and look at the process with the most RAM being used. 
 
+![RAM Photo](https://discord.com/channels/@me/693548483130556610/748647870424678490)
+
 7.) Look to the left and note look at the PID. 
 
+![PID Photo](https://cdn.discordapp.com/attachments/693548483130556610/748647871355813939/pidtaskmgr.PNG)
+
 8.) Start "1v1.YEET.CETRAINER" and type the PID into the "PID" box. 
+
+![Trainer PID Box](https://discord.com/channels/@me/693548483130556610/748648273375658005)
 
 9.) Press "attach process." The program may freeze for a while, but it shouldn't take long. 
 
