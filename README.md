@@ -31,6 +31,6 @@ A cheat engine hack for the game 1v1.lol
 
 9.) Press "attach process." The program may freeze for a while, but it shouldn't take long. 
 
-10.) Enable the features and destroy your friends at 1v1.lol 
+10.) Enable the features and destroy your friends at the game! 
 
 ### IMPORTANT: Please don't use this in competitive/ranked matches(the ones where you can gain/lose trophies) unless you are playing against your friends. 
