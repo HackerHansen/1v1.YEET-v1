@@ -11,7 +11,7 @@ A cheat engine hack for the game 1v1.lol
 
 3.) Download "1v1.YEET.CETRAINER" 
 
-4.) Open a SINGLE tab to 1v1.lol in Firefox. Make sure it is the only tab running. 
+4.) Open a SINGLE tab to [1v1.lol](https://1v1.lol) in Firefox. Make sure it is the only tab running. 
 
 5.) Go to Task Manager and press the "details" tab. 
 
