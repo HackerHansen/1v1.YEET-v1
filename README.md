@@ -1,5 +1,5 @@
 # 1v1.YEET-v1
-A cheat engine hack for the game 1v1.lol 
+A Cheat Engine hack for the game 1v1.lol 
 
 ### Note: This has only been tested on Windows 10 but may work on Mac as well. 
 
