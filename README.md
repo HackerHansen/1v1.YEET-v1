@@ -5,7 +5,7 @@ A Cheat Engine hack for the game 1v1.lol
 
 ## INSTRUCTIONS: 
 
-1.) Download Cheat Engine from https://cheatengine.org 
+1.) Download Cheat Engine from https://cheatengine.org/ 
 
 2.) Download Firefox from https://www.mozilla.org/en-US/firefox/new/ 
 
