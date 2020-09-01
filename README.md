@@ -31,7 +31,7 @@ A Cheat Engine hack for the game 1v1.lol
 
 9.) Press "attach process." The program may freeze for a while, but it shouldn't take long. 
 
-###### To make sure you are attached to the right process, enter a number in the "speed" box. If everything becomes faster, that means you are attached to the right process. Since speed will always work, this is also a good method to test if the hack is patched. If speed doesn't work, then you are attached to the wrong process. Try again. 
+**To make sure you are attached to the right process, enter a number in the "speed" box. If everything becomes faster, that means you are attached to the right process. Since speed will always work, this is also a good method to test if the hack is patched. If speed doesn't work, then you are attached to the wrong process. Try again.**
 
 10.) Enable the features and destroy your friends at the game! 
 
