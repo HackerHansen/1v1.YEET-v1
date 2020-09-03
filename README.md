@@ -23,7 +23,7 @@ A Cheat Engine hack for the game 1v1.lol
 
 ![RAM Usage](https://cdn.discordapp.com/attachments/693548483130556610/748647870269358120/ramusage.PNG)
 
-7.) Look to the left and note look at the PID. 
+7.) Look to the left and look at the PID. 
 
 ![PID Task Manager](https://cdn.discordapp.com/attachments/693548483130556610/748647871355813939/pidtaskmgr.PNG)
 
