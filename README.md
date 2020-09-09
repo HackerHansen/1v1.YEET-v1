@@ -3,7 +3,7 @@ A Cheat Engine hack for the game 1v1.lol
 
 ### Current Status: Working (last checked September 3rd, 2020)
 
-### Note: This has only been tested on Windows 10 64-bit but may work on other versions of Windows, and possibly Mac as well. This has also only been tested on Firefox. 
+### Note: This has only been tested on Windows 10 64-bit but may work on other versions of Windows, and possibly Mac as well. This has also only been tested on Firefox. Also, having Badlion Client installed will cause Cheat Engine to not work. 
 
 ## INSTRUCTIONS: 
 
@@ -46,3 +46,7 @@ A Cheat Engine hack for the game 1v1.lol
 - Make sure you are attached to the right process. One way to do this is to enter a number in the "speed" box and press enter. If everything becomes faster, that means you are attached to the right process. Since speed will always work, this is also a good method to test if the hack is patched. If speed doesn't work, then you are attached to the wrong process. Try again. 
 
 - Try a different computer if you can 
+
+- Make sure you don't have Badlion Client 
+
+- Reinstall Cheat Engine 
