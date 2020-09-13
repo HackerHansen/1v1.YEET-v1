@@ -12,6 +12,8 @@ Patch log:
 
 1.) Download Cheat Engine from https://cheatengine.org/ 
 
+If you already have cheat engine, update to version 7.1 
+
 *Cheat Engine tends to bundle useless bundleware, so make sure you read the installation window and make sure you are installing only Cheat Engine and not anything else if you don't want bundleware.*
 
 2.) Download Firefox from https://www.mozilla.org/en-US/firefox/new/ 
