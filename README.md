@@ -3,6 +3,10 @@ A Cheat Engine hack for the game 1v1.lol
 
 ### Current Status: Mostly Working (last checked September 12th, 2020)
  - God Mode is broken, I will fix it later 
+ - Hide Buidlings is broken, I will fix it later 
+
+Patch log: 
+ - God mode fixed, I will release it when I fix Hide Buildings
 
 ### Note: This has only been tested on Windows 10 64-bit but may work on other versions of Windows, and possibly Mac as well. This has also only been tested on Firefox. Also, having Badlion Client installed will cause Cheat Engine to not work. 
 
