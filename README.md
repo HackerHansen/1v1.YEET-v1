@@ -1,9 +1,7 @@
 # 1v1.YEET-v1
 A Cheat Engine hack for the game 1v1.lol 
 
-### Current Status: Mostly Working (last checked September 12th, 2020)
- - God Mode is broken, I will fix it later 
- - Hide Buildings is broken, I will fix it later 
+### Current Status: Working (last checked September 12th, 2020)
 
 Patch log: 
  - God mode fixed, I will release it when I fix Hide Buildings
