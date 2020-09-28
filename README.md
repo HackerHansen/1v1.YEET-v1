@@ -1,10 +1,8 @@
 # 1v1.YEET-v1
 A Cheat Engine hack for the game 1v1.lol 
 
-### Current Status: Partially Working (last checked September 28th, 2020)
- - Noticed a bug that doesn't let you disable phase 
- - Air Jump broke
- -Expect a fix by today 
+### Current Status: Working (last checked September 28th, 2020)
+
 Patch log: 
  - Fixed on September 12th, 2020 
 
