@@ -1,7 +1,7 @@
 # 1v1.YEET-v1
 A Cheat Engine hack for the game 1v1.lol 
 
-### Current Status: Working (last checked September 28th, 2020)
+### Current Status: Working (last checked October 3rd, 2020)
 
 Patch log: 
  - Fixed on September 12th, 2020 
