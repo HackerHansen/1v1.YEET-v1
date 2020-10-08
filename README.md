@@ -52,6 +52,6 @@ If you already have cheat engine, update to version 7.1
 
 - Try a different computer if you can 
 
-- If you have Badlion Client installed, you may need to disable its anticheat or just uninstall it completely, as it stops cheat engine from running at all (for some reason). 
+- If you have Badlion Client installed, you may need to disable its anticheat or just uninstall it completely, as it stops cheat engine from running at all, even if the client isn't actually running (for some reason). 
 
 - Reinstall Cheat Engine 
