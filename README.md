@@ -1,7 +1,8 @@
 # 1v1.YEET-v1
 A Cheat Engine hack for the game 1v1.lol 
 
-### Current Status: Working (last checked October 3rd, 2020)
+### Current Status: Partially Working (last checked October 8th, 2020)
+ - Rapid Fire, NoCamCollision, and First Person are broken. I'll fix these soon. 
 
 Patch log: 
  - Fixed on September 28th, 2020 
