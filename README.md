@@ -2,7 +2,7 @@
 A Cheat Engine hack for the game 1v1.lol 
 
 ### Current Status: Partially Working (last checked October 8th, 2020)
- - Rapid Fire, NoCamCollision, and First Person are broken. I'll fix these soon, probably by the 15th if I'm not lazy. 
+ - Rapid Fire, NoCamCollision, and First Person are broken. I'll fix these soon, probably by the 17th if I'm not lazy. 
 
 Pre-Release Dev Log: 
  - Fixed Rapid Fire, will do the other stuff later. 
