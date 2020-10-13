@@ -5,7 +5,7 @@ A Cheat Engine hack for the game 1v1.lol
  - Rapid Fire, NoCamCollision, and First Person are broken. I'll fix these soon, probably by the 17th if I'm not lazy. 
 
 Pre-Release Dev Log: 
- - Fixed Rapid Fire, will do the other stuff later. 
+ - Fixed source for everything, will put it in the trainer later. 
  - Noticed a weird thing where the audio doesn't always play when rapid firing with infinite ammo (the audio plays as if you had to reload, but the shots are still fired). Probably won't fix audio issue since it barely affects gameplay. 
 
 ### Note: This has only been tested on Windows 10 64-bit but may work on other versions of Windows, and possibly Mac as well. This has also only been tested on Firefox. Also, having Badlion Client installed will cause Cheat Engine to not work. 
