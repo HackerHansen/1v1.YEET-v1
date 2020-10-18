@@ -33,7 +33,7 @@ If you already have cheat engine, update to version 7.1
 
 8.) Start "1v1.YEET.CETRAINER" and type the PID into the "PID" box. 
 
-![PID Trainer](https://i.imgur.com/4Ce29Qm.png)
+![PID Trainer](https://cdn.discordapp.com/attachments/693548483130556610/748648273279057961/10832pid.PNG)
 
 9.) Press "attach process." The program may freeze for a while, but it shouldn't take long. 
 
