@@ -3,7 +3,9 @@ A Cheat Engine hack for the game 1v1.lol
 
 ### Current Status: Partially Working (last checked March 5th, 2021)
 
-This hack will no longer be updated since v2 has been released. You can get v2 from https://github.com/HackerHansen/1v1.YEET-v2/ 
+# This hack will no longer be updated since v2 has been released. You can get v2 from https://github.com/HackerHansen/1v1.YEET-v2/ 
+
+## Issues have been disabled since this is no longer supported.
 
 ### Note: This has only been tested on Windows 10 64-bit but may work on other versions of Windows. Support for other operating systems is not planned. This has also only been tested on Firefox. Also, having Badlion Client installed may cause Cheat Engine to not work. 
 
